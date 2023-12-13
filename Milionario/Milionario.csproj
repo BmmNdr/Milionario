@@ -1,0 +1,163 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="audio\esatta0.mp3" />
+    <None Remove="audio\esatta1.mp3" />
+    <None Remove="audio\esatta2.mp3" />
+    <None Remove="audio\musica0.mp3" />
+    <None Remove="audio\musica1.mp3" />
+    <None Remove="audio\musica10.mp3" />
+    <None Remove="audio\musica11.mp3" />
+    <None Remove="audio\musica12.mp3" />
+    <None Remove="audio\musica13.mp3" />
+    <None Remove="audio\musica14.mp3" />
+    <None Remove="audio\musica2.mp3" />
+    <None Remove="audio\musica3.mp3" />
+    <None Remove="audio\musica4.mp3" />
+    <None Remove="audio\musica5.mp3" />
+    <None Remove="audio\musica6.mp3" />
+    <None Remove="audio\musica7.mp3" />
+    <None Remove="audio\musica8.mp3" />
+    <None Remove="audio\musica9.mp3" />
+    <None Remove="audio\sigla.mp3" />
+    <None Remove="bgDomanda.png" />
+    <None Remove="bgRispostaA.png" />
+    <None Remove="bgRispostaB.png" />
+    <None Remove="bgRispostaC.png" />
+    <None Remove="bgRispostaD.png" />
+    <None Remove="classifica.csv" />
+    <None Remove="domande.csv" />
+    <None Remove="img\bgDomanda.png" />
+    <None Remove="img\bgRispostaA.png" />
+    <None Remove="img\bgRispostaB.png" />
+    <None Remove="img\bgRispostaC.png" />
+    <None Remove="img\bgRispostaD.png" />
+    <None Remove="img\domanda.png" />
+    <None Remove="img\domanda0.jpg" />
+    <None Remove="img\domanda1.jpg" />
+    <None Remove="img\domanda2.jpg" />
+    <None Remove="img\domanda3.jpg" />
+    <None Remove="img\domanda4.jpg" />
+    <None Remove="img\errore.mov" />
+    <None Remove="img\errore.mp4" />
+    <None Remove="img\logo.jpg" />
+    <None Remove="img\risposta.png" />
+    <None Remove="img\rispostaErrata.png" />
+    <None Remove="img\rispostaEsatta.png" />
+    <None Remove="img\sigla.mov" />
+    <None Remove="img\sigla.mp4" />
+    <None Remove="img\vittoria.mov" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="audio\esatta0.mp3">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="audio\esatta1.mp3">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="audio\esatta2.mp3">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="audio\musica0.mp3">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="audio\musica1.mp3">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="audio\musica10.mp3">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="audio\musica11.mp3">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="audio\musica12.mp3">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="audio\musica13.mp3">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="audio\musica14.mp3">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="audio\musica2.mp3">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="audio\musica3.mp3">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="audio\musica4.mp3">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="audio\musica5.mp3">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="audio\musica6.mp3">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="audio\musica7.mp3">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="audio\musica8.mp3">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="audio\musica9.mp3">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="audio\sigla.mp3">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="classifica.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="domande.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="img\domanda0.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="img\domanda1.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="img\domanda2.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="img\domanda3.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="img\domanda4.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="img\errore.mov">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="img\vittoria.mov">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Resource Include="img\domanda.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="img\logo.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Content Include="img\risposta.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="img\rispostaErrata.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="img\rispostaEsatta.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="img\sigla.mov">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+</Project>

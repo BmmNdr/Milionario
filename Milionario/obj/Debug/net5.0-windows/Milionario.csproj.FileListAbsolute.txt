@@ -1,0 +1,257 @@
+E:\BiemmiAndrea4a\Milionario\Milionario\bin\Debug\net5.0-windows\Milionario.exe
+E:\BiemmiAndrea4a\Milionario\Milionario\bin\Debug\net5.0-windows\Milionario.deps.json
+E:\BiemmiAndrea4a\Milionario\Milionario\bin\Debug\net5.0-windows\Milionario.runtimeconfig.json
+E:\BiemmiAndrea4a\Milionario\Milionario\bin\Debug\net5.0-windows\Milionario.runtimeconfig.dev.json
+E:\BiemmiAndrea4a\Milionario\Milionario\bin\Debug\net5.0-windows\Milionario.dll
+E:\BiemmiAndrea4a\Milionario\Milionario\bin\Debug\net5.0-windows\ref\Milionario.dll
+E:\BiemmiAndrea4a\Milionario\Milionario\bin\Debug\net5.0-windows\Milionario.pdb
+E:\BiemmiAndrea4a\Milionario\Milionario\obj\Debug\net5.0-windows\Milionario.csproj.AssemblyReference.cache
+E:\BiemmiAndrea4a\Milionario\Milionario\obj\Debug\net5.0-windows\CTimer.g.cs
+E:\BiemmiAndrea4a\Milionario\Milionario\obj\Debug\net5.0-windows\MainWindow.g.cs
+E:\BiemmiAndrea4a\Milionario\Milionario\obj\Debug\net5.0-windows\App.g.cs
+E:\BiemmiAndrea4a\Milionario\Milionario\obj\Debug\net5.0-windows\Milionario_MarkupCompile.cache
+E:\BiemmiAndrea4a\Milionario\Milionario\obj\Debug\net5.0-windows\Milionario_MarkupCompile.lref
+E:\BiemmiAndrea4a\Milionario\Milionario\obj\Debug\net5.0-windows\CTimer.baml
+E:\BiemmiAndrea4a\Milionario\Milionario\obj\Debug\net5.0-windows\MainWindow.baml
+E:\BiemmiAndrea4a\Milionario\Milionario\obj\Debug\net5.0-windows\Milionario.g.resources
+E:\BiemmiAndrea4a\Milionario\Milionario\obj\Debug\net5.0-windows\Milionario.GeneratedMSBuildEditorConfig.editorconfig
+E:\BiemmiAndrea4a\Milionario\Milionario\obj\Debug\net5.0-windows\Milionario.AssemblyInfoInputs.cache
+E:\BiemmiAndrea4a\Milionario\Milionario\obj\Debug\net5.0-windows\Milionario.AssemblyInfo.cs
+E:\BiemmiAndrea4a\Milionario\Milionario\obj\Debug\net5.0-windows\Milionario.csproj.CoreCompileInputs.cache
+E:\BiemmiAndrea4a\Milionario\Milionario\obj\Debug\net5.0-windows\Milionario.dll
+E:\BiemmiAndrea4a\Milionario\Milionario\obj\Debug\net5.0-windows\ref\Milionario.dll
+E:\BiemmiAndrea4a\Milionario\Milionario\obj\Debug\net5.0-windows\Milionario.pdb
+E:\BiemmiAndrea4a\Milionario\Milionario\obj\Debug\net5.0-windows\Milionario.genruntimeconfig.cache
+E:\BiemmiAndrea4a\Milionario\Milionario\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\scoob\Desktop\Milionario\Milionario\bin\Debug\net5.0-windows\Milionario.exe
+C:\Users\scoob\Desktop\Milionario\Milionario\bin\Debug\net5.0-windows\Milionario.deps.json
+C:\Users\scoob\Desktop\Milionario\Milionario\bin\Debug\net5.0-windows\Milionario.runtimeconfig.json
+C:\Users\scoob\Desktop\Milionario\Milionario\bin\Debug\net5.0-windows\Milionario.runtimeconfig.dev.json
+C:\Users\scoob\Desktop\Milionario\Milionario\bin\Debug\net5.0-windows\Milionario.dll
+C:\Users\scoob\Desktop\Milionario\Milionario\bin\Debug\net5.0-windows\Milionario.pdb
+C:\Users\scoob\Desktop\Milionario\Milionario\obj\Debug\net5.0-windows\Milionario.csproj.AssemblyReference.cache
+C:\Users\scoob\Desktop\Milionario\Milionario\obj\Debug\net5.0-windows\CTimer.g.cs
+C:\Users\scoob\Desktop\Milionario\Milionario\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\scoob\Desktop\Milionario\Milionario\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\scoob\Desktop\Milionario\Milionario\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\scoob\Desktop\Milionario\Milionario\obj\Debug\net5.0-windows\Milionario_MarkupCompile.cache
+C:\Users\scoob\Desktop\Milionario\Milionario\obj\Debug\net5.0-windows\Milionario_MarkupCompile.lref
+C:\Users\scoob\Desktop\Milionario\Milionario\obj\Debug\net5.0-windows\CTimer.baml
+C:\Users\scoob\Desktop\Milionario\Milionario\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\scoob\Desktop\Milionario\Milionario\obj\Debug\net5.0-windows\Milionario.g.resources
+C:\Users\scoob\Desktop\Milionario\Milionario\obj\Debug\net5.0-windows\Milionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scoob\Desktop\Milionario\Milionario\obj\Debug\net5.0-windows\Milionario.AssemblyInfoInputs.cache
+C:\Users\scoob\Desktop\Milionario\Milionario\obj\Debug\net5.0-windows\Milionario.AssemblyInfo.cs
+C:\Users\scoob\Desktop\Milionario\Milionario\obj\Debug\net5.0-windows\Milionario.csproj.CoreCompileInputs.cache
+C:\Users\scoob\Desktop\Milionario\Milionario\obj\Debug\net5.0-windows\Milionario.dll
+C:\Users\scoob\Desktop\Milionario\Milionario\obj\Debug\net5.0-windows\refint\Milionario.dll
+C:\Users\scoob\Desktop\Milionario\Milionario\obj\Debug\net5.0-windows\Milionario.pdb
+C:\Users\scoob\Desktop\Milionario\Milionario\obj\Debug\net5.0-windows\Milionario.genruntimeconfig.cache
+C:\Users\scoob\Desktop\Milionario\Milionario\obj\Debug\net5.0-windows\ref\Milionario.dll
+C:\Users\scoob\Desktop\Milionario\Milionario\bin\Debug\net5.0-windows\img\sigla.mov
+C:\Users\scoob\Desktop\Milionario\Milionario\obj\Debug\net5.0-windows\Milionario_Content.g.cs
+C:\Users\scoob\Desktop\Milionario\Milionario\bin\Debug\net5.0-windows\audio\sigla.mp3
+C:\Users\scoob\Desktop\Milionario\Milionario\bin\Debug\net5.0-windows\img\risposta.png
+C:\Users\scoob\Desktop\Milionario\Milionario\bin\Debug\net5.0-windows\img\rispostaErrata.png
+C:\Users\scoob\Desktop\Milionario\Milionario\bin\Debug\net5.0-windows\img\rispostaEsatta.png
+C:\Users\scoob\Desktop\Milionario\Milionario\bin\Debug\net5.0-windows\audio\esatta0.mp3
+C:\Users\scoob\Desktop\Milionario\Milionario\bin\Debug\net5.0-windows\audio\esatta1.mp3
+C:\Users\scoob\Desktop\Milionario\Milionario\bin\Debug\net5.0-windows\audio\esatta2.mp3
+C:\Users\scoob\Desktop\Milionario\Milionario\bin\Debug\net5.0-windows\img\errore.mov
+C:\Users\scoob\Desktop\Milionario\Milionario\bin\Debug\net5.0-windows\img\domanda0.jpg
+C:\Users\scoob\Desktop\Milionario\Milionario\bin\Debug\net5.0-windows\img\domanda1.jpg
+C:\Users\scoob\Desktop\Milionario\Milionario\bin\Debug\net5.0-windows\img\domanda2.jpg
+C:\Users\scoob\Desktop\Milionario\Milionario\bin\Debug\net5.0-windows\img\domanda3.jpg
+C:\Users\scoob\Desktop\Milionario\Milionario\bin\Debug\net5.0-windows\img\domanda4.jpg
+C:\Users\scoob\Desktop\Milionario\Milionario\bin\Debug\net5.0-windows\domande.csv
+C:\Users\scoob\Desktop\Milionario\Milionario\bin\Debug\net5.0-windows\classifica.csv
+C:\Users\scoob\Desktop\Milionario\Milionario\bin\Debug\net5.0-windows\img\vittoria.mov
+C:\Users\scoob\Desktop\Milionario\Milionario\bin\Debug\net5.0-windows\audio\musica0.mp3
+C:\Users\scoob\Desktop\Milionario\Milionario\bin\Debug\net5.0-windows\audio\musica1.mp3
+C:\Users\scoob\Desktop\Milionario\Milionario\bin\Debug\net5.0-windows\audio\musica10.mp3
+C:\Users\scoob\Desktop\Milionario\Milionario\bin\Debug\net5.0-windows\audio\musica11.mp3
+C:\Users\scoob\Desktop\Milionario\Milionario\bin\Debug\net5.0-windows\audio\musica12.mp3
+C:\Users\scoob\Desktop\Milionario\Milionario\bin\Debug\net5.0-windows\audio\musica13.mp3
+C:\Users\scoob\Desktop\Milionario\Milionario\bin\Debug\net5.0-windows\audio\musica14.mp3
+C:\Users\scoob\Desktop\Milionario\Milionario\bin\Debug\net5.0-windows\audio\musica2.mp3
+C:\Users\scoob\Desktop\Milionario\Milionario\bin\Debug\net5.0-windows\audio\musica3.mp3
+C:\Users\scoob\Desktop\Milionario\Milionario\bin\Debug\net5.0-windows\audio\musica4.mp3
+C:\Users\scoob\Desktop\Milionario\Milionario\bin\Debug\net5.0-windows\audio\musica5.mp3
+C:\Users\scoob\Desktop\Milionario\Milionario\bin\Debug\net5.0-windows\audio\musica6.mp3
+C:\Users\scoob\Desktop\Milionario\Milionario\bin\Debug\net5.0-windows\audio\musica7.mp3
+C:\Users\scoob\Desktop\Milionario\Milionario\bin\Debug\net5.0-windows\audio\musica8.mp3
+C:\Users\scoob\Desktop\Milionario\Milionario\bin\Debug\net5.0-windows\audio\musica9.mp3
+C:\Users\scoob\Desktop\Milionario - Copy\Milionario\bin\Debug\net5.0-windows\audio\esatta0.mp3
+C:\Users\scoob\Desktop\Milionario - Copy\Milionario\bin\Debug\net5.0-windows\audio\esatta1.mp3
+C:\Users\scoob\Desktop\Milionario - Copy\Milionario\bin\Debug\net5.0-windows\audio\esatta2.mp3
+C:\Users\scoob\Desktop\Milionario - Copy\Milionario\bin\Debug\net5.0-windows\audio\musica0.mp3
+C:\Users\scoob\Desktop\Milionario - Copy\Milionario\bin\Debug\net5.0-windows\audio\musica1.mp3
+C:\Users\scoob\Desktop\Milionario - Copy\Milionario\bin\Debug\net5.0-windows\audio\musica10.mp3
+C:\Users\scoob\Desktop\Milionario - Copy\Milionario\bin\Debug\net5.0-windows\audio\musica11.mp3
+C:\Users\scoob\Desktop\Milionario - Copy\Milionario\bin\Debug\net5.0-windows\audio\musica12.mp3
+C:\Users\scoob\Desktop\Milionario - Copy\Milionario\bin\Debug\net5.0-windows\audio\musica13.mp3
+C:\Users\scoob\Desktop\Milionario - Copy\Milionario\bin\Debug\net5.0-windows\audio\musica14.mp3
+C:\Users\scoob\Desktop\Milionario - Copy\Milionario\bin\Debug\net5.0-windows\audio\musica2.mp3
+C:\Users\scoob\Desktop\Milionario - Copy\Milionario\bin\Debug\net5.0-windows\audio\musica3.mp3
+C:\Users\scoob\Desktop\Milionario - Copy\Milionario\bin\Debug\net5.0-windows\audio\musica4.mp3
+C:\Users\scoob\Desktop\Milionario - Copy\Milionario\bin\Debug\net5.0-windows\audio\musica5.mp3
+C:\Users\scoob\Desktop\Milionario - Copy\Milionario\bin\Debug\net5.0-windows\audio\musica6.mp3
+C:\Users\scoob\Desktop\Milionario - Copy\Milionario\bin\Debug\net5.0-windows\audio\musica7.mp3
+C:\Users\scoob\Desktop\Milionario - Copy\Milionario\bin\Debug\net5.0-windows\audio\musica8.mp3
+C:\Users\scoob\Desktop\Milionario - Copy\Milionario\bin\Debug\net5.0-windows\audio\musica9.mp3
+C:\Users\scoob\Desktop\Milionario - Copy\Milionario\bin\Debug\net5.0-windows\audio\sigla.mp3
+C:\Users\scoob\Desktop\Milionario - Copy\Milionario\bin\Debug\net5.0-windows\classifica.csv
+C:\Users\scoob\Desktop\Milionario - Copy\Milionario\bin\Debug\net5.0-windows\domande.csv
+C:\Users\scoob\Desktop\Milionario - Copy\Milionario\bin\Debug\net5.0-windows\img\domanda0.jpg
+C:\Users\scoob\Desktop\Milionario - Copy\Milionario\bin\Debug\net5.0-windows\img\domanda1.jpg
+C:\Users\scoob\Desktop\Milionario - Copy\Milionario\bin\Debug\net5.0-windows\img\domanda2.jpg
+C:\Users\scoob\Desktop\Milionario - Copy\Milionario\bin\Debug\net5.0-windows\img\domanda3.jpg
+C:\Users\scoob\Desktop\Milionario - Copy\Milionario\bin\Debug\net5.0-windows\img\domanda4.jpg
+C:\Users\scoob\Desktop\Milionario - Copy\Milionario\bin\Debug\net5.0-windows\img\errore.mov
+C:\Users\scoob\Desktop\Milionario - Copy\Milionario\bin\Debug\net5.0-windows\img\vittoria.mov
+C:\Users\scoob\Desktop\Milionario - Copy\Milionario\bin\Debug\net5.0-windows\img\risposta.png
+C:\Users\scoob\Desktop\Milionario - Copy\Milionario\bin\Debug\net5.0-windows\img\rispostaErrata.png
+C:\Users\scoob\Desktop\Milionario - Copy\Milionario\bin\Debug\net5.0-windows\img\rispostaEsatta.png
+C:\Users\scoob\Desktop\Milionario - Copy\Milionario\bin\Debug\net5.0-windows\img\sigla.mov
+C:\Users\scoob\Desktop\Milionario - Copy\Milionario\bin\Debug\net5.0-windows\Milionario.exe
+C:\Users\scoob\Desktop\Milionario - Copy\Milionario\bin\Debug\net5.0-windows\Milionario.deps.json
+C:\Users\scoob\Desktop\Milionario - Copy\Milionario\bin\Debug\net5.0-windows\Milionario.runtimeconfig.json
+C:\Users\scoob\Desktop\Milionario - Copy\Milionario\bin\Debug\net5.0-windows\Milionario.runtimeconfig.dev.json
+C:\Users\scoob\Desktop\Milionario - Copy\Milionario\bin\Debug\net5.0-windows\Milionario.dll
+C:\Users\scoob\Desktop\Milionario - Copy\Milionario\bin\Debug\net5.0-windows\Milionario.pdb
+C:\Users\scoob\Desktop\Milionario - Copy\Milionario\obj\Debug\net5.0-windows\Milionario.csproj.AssemblyReference.cache
+C:\Users\scoob\Desktop\Milionario - Copy\Milionario\obj\Debug\net5.0-windows\CTimer.g.cs
+C:\Users\scoob\Desktop\Milionario - Copy\Milionario\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\scoob\Desktop\Milionario - Copy\Milionario\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\scoob\Desktop\Milionario - Copy\Milionario\obj\Debug\net5.0-windows\Milionario_Content.g.cs
+C:\Users\scoob\Desktop\Milionario - Copy\Milionario\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\scoob\Desktop\Milionario - Copy\Milionario\obj\Debug\net5.0-windows\Milionario_MarkupCompile.cache
+C:\Users\scoob\Desktop\Milionario - Copy\Milionario\obj\Debug\net5.0-windows\Milionario_MarkupCompile.lref
+C:\Users\scoob\Desktop\Milionario - Copy\Milionario\obj\Debug\net5.0-windows\CTimer.baml
+C:\Users\scoob\Desktop\Milionario - Copy\Milionario\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\scoob\Desktop\Milionario - Copy\Milionario\obj\Debug\net5.0-windows\Milionario.g.resources
+C:\Users\scoob\Desktop\Milionario - Copy\Milionario\obj\Debug\net5.0-windows\Milionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scoob\Desktop\Milionario - Copy\Milionario\obj\Debug\net5.0-windows\Milionario.AssemblyInfoInputs.cache
+C:\Users\scoob\Desktop\Milionario - Copy\Milionario\obj\Debug\net5.0-windows\Milionario.AssemblyInfo.cs
+C:\Users\scoob\Desktop\Milionario - Copy\Milionario\obj\Debug\net5.0-windows\Milionario.csproj.CoreCompileInputs.cache
+C:\Users\scoob\Desktop\Milionario - Copy\Milionario\obj\Debug\net5.0-windows\Milionario.dll
+C:\Users\scoob\Desktop\Milionario - Copy\Milionario\obj\Debug\net5.0-windows\refint\Milionario.dll
+C:\Users\scoob\Desktop\Milionario - Copy\Milionario\obj\Debug\net5.0-windows\Milionario.pdb
+C:\Users\scoob\Desktop\Milionario - Copy\Milionario\obj\Debug\net5.0-windows\Milionario.genruntimeconfig.cache
+C:\Users\scoob\Desktop\Milionario - Copy\Milionario\obj\Debug\net5.0-windows\ref\Milionario.dll
+E:\SCUOLA\Informatica\WPF\Milionario - Copy\Milionario\bin\Debug\net5.0-windows\audio\esatta0.mp3
+E:\SCUOLA\Informatica\WPF\Milionario - Copy\Milionario\bin\Debug\net5.0-windows\audio\esatta1.mp3
+E:\SCUOLA\Informatica\WPF\Milionario - Copy\Milionario\bin\Debug\net5.0-windows\audio\esatta2.mp3
+E:\SCUOLA\Informatica\WPF\Milionario - Copy\Milionario\bin\Debug\net5.0-windows\audio\musica0.mp3
+E:\SCUOLA\Informatica\WPF\Milionario - Copy\Milionario\bin\Debug\net5.0-windows\audio\musica1.mp3
+E:\SCUOLA\Informatica\WPF\Milionario - Copy\Milionario\bin\Debug\net5.0-windows\audio\musica10.mp3
+E:\SCUOLA\Informatica\WPF\Milionario - Copy\Milionario\bin\Debug\net5.0-windows\audio\musica11.mp3
+E:\SCUOLA\Informatica\WPF\Milionario - Copy\Milionario\bin\Debug\net5.0-windows\audio\musica12.mp3
+E:\SCUOLA\Informatica\WPF\Milionario - Copy\Milionario\bin\Debug\net5.0-windows\audio\musica13.mp3
+E:\SCUOLA\Informatica\WPF\Milionario - Copy\Milionario\bin\Debug\net5.0-windows\audio\musica14.mp3
+E:\SCUOLA\Informatica\WPF\Milionario - Copy\Milionario\bin\Debug\net5.0-windows\audio\musica2.mp3
+E:\SCUOLA\Informatica\WPF\Milionario - Copy\Milionario\bin\Debug\net5.0-windows\audio\musica3.mp3
+E:\SCUOLA\Informatica\WPF\Milionario - Copy\Milionario\bin\Debug\net5.0-windows\audio\musica4.mp3
+E:\SCUOLA\Informatica\WPF\Milionario - Copy\Milionario\bin\Debug\net5.0-windows\audio\musica5.mp3
+E:\SCUOLA\Informatica\WPF\Milionario - Copy\Milionario\bin\Debug\net5.0-windows\audio\musica6.mp3
+E:\SCUOLA\Informatica\WPF\Milionario - Copy\Milionario\bin\Debug\net5.0-windows\audio\musica7.mp3
+E:\SCUOLA\Informatica\WPF\Milionario - Copy\Milionario\bin\Debug\net5.0-windows\audio\musica8.mp3
+E:\SCUOLA\Informatica\WPF\Milionario - Copy\Milionario\bin\Debug\net5.0-windows\audio\musica9.mp3
+E:\SCUOLA\Informatica\WPF\Milionario - Copy\Milionario\bin\Debug\net5.0-windows\audio\sigla.mp3
+E:\SCUOLA\Informatica\WPF\Milionario - Copy\Milionario\bin\Debug\net5.0-windows\classifica.csv
+E:\SCUOLA\Informatica\WPF\Milionario - Copy\Milionario\bin\Debug\net5.0-windows\domande.csv
+E:\SCUOLA\Informatica\WPF\Milionario - Copy\Milionario\bin\Debug\net5.0-windows\img\domanda0.jpg
+E:\SCUOLA\Informatica\WPF\Milionario - Copy\Milionario\bin\Debug\net5.0-windows\img\domanda1.jpg
+E:\SCUOLA\Informatica\WPF\Milionario - Copy\Milionario\bin\Debug\net5.0-windows\img\domanda2.jpg
+E:\SCUOLA\Informatica\WPF\Milionario - Copy\Milionario\bin\Debug\net5.0-windows\img\domanda3.jpg
+E:\SCUOLA\Informatica\WPF\Milionario - Copy\Milionario\bin\Debug\net5.0-windows\img\domanda4.jpg
+E:\SCUOLA\Informatica\WPF\Milionario - Copy\Milionario\bin\Debug\net5.0-windows\img\errore.mov
+E:\SCUOLA\Informatica\WPF\Milionario - Copy\Milionario\bin\Debug\net5.0-windows\img\vittoria.mov
+E:\SCUOLA\Informatica\WPF\Milionario - Copy\Milionario\bin\Debug\net5.0-windows\img\risposta.png
+E:\SCUOLA\Informatica\WPF\Milionario - Copy\Milionario\bin\Debug\net5.0-windows\img\rispostaErrata.png
+E:\SCUOLA\Informatica\WPF\Milionario - Copy\Milionario\bin\Debug\net5.0-windows\img\rispostaEsatta.png
+E:\SCUOLA\Informatica\WPF\Milionario - Copy\Milionario\bin\Debug\net5.0-windows\img\sigla.mov
+E:\SCUOLA\Informatica\WPF\Milionario - Copy\Milionario\bin\Debug\net5.0-windows\Milionario.exe
+E:\SCUOLA\Informatica\WPF\Milionario - Copy\Milionario\bin\Debug\net5.0-windows\Milionario.deps.json
+E:\SCUOLA\Informatica\WPF\Milionario - Copy\Milionario\bin\Debug\net5.0-windows\Milionario.runtimeconfig.json
+E:\SCUOLA\Informatica\WPF\Milionario - Copy\Milionario\bin\Debug\net5.0-windows\Milionario.runtimeconfig.dev.json
+E:\SCUOLA\Informatica\WPF\Milionario - Copy\Milionario\bin\Debug\net5.0-windows\Milionario.dll
+E:\SCUOLA\Informatica\WPF\Milionario - Copy\Milionario\bin\Debug\net5.0-windows\Milionario.pdb
+E:\SCUOLA\Informatica\WPF\Milionario - Copy\Milionario\obj\Debug\net5.0-windows\Milionario.csproj.AssemblyReference.cache
+E:\SCUOLA\Informatica\WPF\Milionario - Copy\Milionario\obj\Debug\net5.0-windows\CTimer.g.cs
+E:\SCUOLA\Informatica\WPF\Milionario - Copy\Milionario\obj\Debug\net5.0-windows\MainWindow.g.cs
+E:\SCUOLA\Informatica\WPF\Milionario - Copy\Milionario\obj\Debug\net5.0-windows\App.g.cs
+E:\SCUOLA\Informatica\WPF\Milionario - Copy\Milionario\obj\Debug\net5.0-windows\Milionario_Content.g.cs
+E:\SCUOLA\Informatica\WPF\Milionario - Copy\Milionario\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+E:\SCUOLA\Informatica\WPF\Milionario - Copy\Milionario\obj\Debug\net5.0-windows\Milionario_MarkupCompile.cache
+E:\SCUOLA\Informatica\WPF\Milionario - Copy\Milionario\obj\Debug\net5.0-windows\Milionario_MarkupCompile.lref
+E:\SCUOLA\Informatica\WPF\Milionario - Copy\Milionario\obj\Debug\net5.0-windows\CTimer.baml
+E:\SCUOLA\Informatica\WPF\Milionario - Copy\Milionario\obj\Debug\net5.0-windows\MainWindow.baml
+E:\SCUOLA\Informatica\WPF\Milionario - Copy\Milionario\obj\Debug\net5.0-windows\Milionario.g.resources
+E:\SCUOLA\Informatica\WPF\Milionario - Copy\Milionario\obj\Debug\net5.0-windows\Milionario.GeneratedMSBuildEditorConfig.editorconfig
+E:\SCUOLA\Informatica\WPF\Milionario - Copy\Milionario\obj\Debug\net5.0-windows\Milionario.AssemblyInfoInputs.cache
+E:\SCUOLA\Informatica\WPF\Milionario - Copy\Milionario\obj\Debug\net5.0-windows\Milionario.AssemblyInfo.cs
+E:\SCUOLA\Informatica\WPF\Milionario - Copy\Milionario\obj\Debug\net5.0-windows\Milionario.csproj.CoreCompileInputs.cache
+E:\SCUOLA\Informatica\WPF\Milionario - Copy\Milionario\obj\Debug\net5.0-windows\Milionario.dll
+E:\SCUOLA\Informatica\WPF\Milionario - Copy\Milionario\obj\Debug\net5.0-windows\refint\Milionario.dll
+E:\SCUOLA\Informatica\WPF\Milionario - Copy\Milionario\obj\Debug\net5.0-windows\Milionario.pdb
+E:\SCUOLA\Informatica\WPF\Milionario - Copy\Milionario\obj\Debug\net5.0-windows\Milionario.genruntimeconfig.cache
+E:\SCUOLA\Informatica\WPF\Milionario - Copy\Milionario\obj\Debug\net5.0-windows\ref\Milionario.dll
+E:\SCUOLA\Informatica\WPF\Milionario\Milionario\bin\Debug\net5.0-windows\audio\esatta0.mp3
+E:\SCUOLA\Informatica\WPF\Milionario\Milionario\bin\Debug\net5.0-windows\audio\esatta1.mp3
+E:\SCUOLA\Informatica\WPF\Milionario\Milionario\bin\Debug\net5.0-windows\audio\esatta2.mp3
+E:\SCUOLA\Informatica\WPF\Milionario\Milionario\bin\Debug\net5.0-windows\audio\musica0.mp3
+E:\SCUOLA\Informatica\WPF\Milionario\Milionario\bin\Debug\net5.0-windows\audio\musica1.mp3
+E:\SCUOLA\Informatica\WPF\Milionario\Milionario\bin\Debug\net5.0-windows\audio\musica10.mp3
+E:\SCUOLA\Informatica\WPF\Milionario\Milionario\bin\Debug\net5.0-windows\audio\musica11.mp3
+E:\SCUOLA\Informatica\WPF\Milionario\Milionario\bin\Debug\net5.0-windows\audio\musica12.mp3
+E:\SCUOLA\Informatica\WPF\Milionario\Milionario\bin\Debug\net5.0-windows\audio\musica13.mp3
+E:\SCUOLA\Informatica\WPF\Milionario\Milionario\bin\Debug\net5.0-windows\audio\musica14.mp3
+E:\SCUOLA\Informatica\WPF\Milionario\Milionario\bin\Debug\net5.0-windows\audio\musica2.mp3
+E:\SCUOLA\Informatica\WPF\Milionario\Milionario\bin\Debug\net5.0-windows\audio\musica3.mp3
+E:\SCUOLA\Informatica\WPF\Milionario\Milionario\bin\Debug\net5.0-windows\audio\musica4.mp3
+E:\SCUOLA\Informatica\WPF\Milionario\Milionario\bin\Debug\net5.0-windows\audio\musica5.mp3
+E:\SCUOLA\Informatica\WPF\Milionario\Milionario\bin\Debug\net5.0-windows\audio\musica6.mp3
+E:\SCUOLA\Informatica\WPF\Milionario\Milionario\bin\Debug\net5.0-windows\audio\musica7.mp3
+E:\SCUOLA\Informatica\WPF\Milionario\Milionario\bin\Debug\net5.0-windows\audio\musica8.mp3
+E:\SCUOLA\Informatica\WPF\Milionario\Milionario\bin\Debug\net5.0-windows\audio\musica9.mp3
+E:\SCUOLA\Informatica\WPF\Milionario\Milionario\bin\Debug\net5.0-windows\audio\sigla.mp3
+E:\SCUOLA\Informatica\WPF\Milionario\Milionario\bin\Debug\net5.0-windows\classifica.csv
+E:\SCUOLA\Informatica\WPF\Milionario\Milionario\bin\Debug\net5.0-windows\domande.csv
+E:\SCUOLA\Informatica\WPF\Milionario\Milionario\bin\Debug\net5.0-windows\img\domanda0.jpg
+E:\SCUOLA\Informatica\WPF\Milionario\Milionario\bin\Debug\net5.0-windows\img\domanda1.jpg
+E:\SCUOLA\Informatica\WPF\Milionario\Milionario\bin\Debug\net5.0-windows\img\domanda2.jpg
+E:\SCUOLA\Informatica\WPF\Milionario\Milionario\bin\Debug\net5.0-windows\img\domanda3.jpg
+E:\SCUOLA\Informatica\WPF\Milionario\Milionario\bin\Debug\net5.0-windows\img\domanda4.jpg
+E:\SCUOLA\Informatica\WPF\Milionario\Milionario\bin\Debug\net5.0-windows\img\errore.mov
+E:\SCUOLA\Informatica\WPF\Milionario\Milionario\bin\Debug\net5.0-windows\img\vittoria.mov
+E:\SCUOLA\Informatica\WPF\Milionario\Milionario\bin\Debug\net5.0-windows\img\risposta.png
+E:\SCUOLA\Informatica\WPF\Milionario\Milionario\bin\Debug\net5.0-windows\img\rispostaErrata.png
+E:\SCUOLA\Informatica\WPF\Milionario\Milionario\bin\Debug\net5.0-windows\img\rispostaEsatta.png
+E:\SCUOLA\Informatica\WPF\Milionario\Milionario\bin\Debug\net5.0-windows\img\sigla.mov
+E:\SCUOLA\Informatica\WPF\Milionario\Milionario\bin\Debug\net5.0-windows\Milionario.exe
+E:\SCUOLA\Informatica\WPF\Milionario\Milionario\bin\Debug\net5.0-windows\Milionario.deps.json
+E:\SCUOLA\Informatica\WPF\Milionario\Milionario\bin\Debug\net5.0-windows\Milionario.runtimeconfig.json
+E:\SCUOLA\Informatica\WPF\Milionario\Milionario\bin\Debug\net5.0-windows\Milionario.runtimeconfig.dev.json
+E:\SCUOLA\Informatica\WPF\Milionario\Milionario\bin\Debug\net5.0-windows\Milionario.dll
+E:\SCUOLA\Informatica\WPF\Milionario\Milionario\bin\Debug\net5.0-windows\Milionario.pdb
+E:\SCUOLA\Informatica\WPF\Milionario\Milionario\obj\Debug\net5.0-windows\Milionario.csproj.AssemblyReference.cache
+E:\SCUOLA\Informatica\WPF\Milionario\Milionario\obj\Debug\net5.0-windows\CTimer.g.cs
+E:\SCUOLA\Informatica\WPF\Milionario\Milionario\obj\Debug\net5.0-windows\MainWindow.g.cs
+E:\SCUOLA\Informatica\WPF\Milionario\Milionario\obj\Debug\net5.0-windows\App.g.cs
+E:\SCUOLA\Informatica\WPF\Milionario\Milionario\obj\Debug\net5.0-windows\Milionario_Content.g.cs
+E:\SCUOLA\Informatica\WPF\Milionario\Milionario\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+E:\SCUOLA\Informatica\WPF\Milionario\Milionario\obj\Debug\net5.0-windows\Milionario_MarkupCompile.cache
+E:\SCUOLA\Informatica\WPF\Milionario\Milionario\obj\Debug\net5.0-windows\Milionario_MarkupCompile.lref
+E:\SCUOLA\Informatica\WPF\Milionario\Milionario\obj\Debug\net5.0-windows\CTimer.baml
+E:\SCUOLA\Informatica\WPF\Milionario\Milionario\obj\Debug\net5.0-windows\MainWindow.baml
+E:\SCUOLA\Informatica\WPF\Milionario\Milionario\obj\Debug\net5.0-windows\Milionario.g.resources
+E:\SCUOLA\Informatica\WPF\Milionario\Milionario\obj\Debug\net5.0-windows\Milionario.GeneratedMSBuildEditorConfig.editorconfig
+E:\SCUOLA\Informatica\WPF\Milionario\Milionario\obj\Debug\net5.0-windows\Milionario.AssemblyInfoInputs.cache
+E:\SCUOLA\Informatica\WPF\Milionario\Milionario\obj\Debug\net5.0-windows\Milionario.AssemblyInfo.cs
+E:\SCUOLA\Informatica\WPF\Milionario\Milionario\obj\Debug\net5.0-windows\Milionario.csproj.CoreCompileInputs.cache
+E:\SCUOLA\Informatica\WPF\Milionario\Milionario\obj\Debug\net5.0-windows\Milionario.dll
+E:\SCUOLA\Informatica\WPF\Milionario\Milionario\obj\Debug\net5.0-windows\refint\Milionario.dll
+E:\SCUOLA\Informatica\WPF\Milionario\Milionario\obj\Debug\net5.0-windows\Milionario.pdb
+E:\SCUOLA\Informatica\WPF\Milionario\Milionario\obj\Debug\net5.0-windows\Milionario.genruntimeconfig.cache
+E:\SCUOLA\Informatica\WPF\Milionario\Milionario\obj\Debug\net5.0-windows\ref\Milionario.dll
