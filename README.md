@@ -9,9 +9,6 @@ This repository contains a local, single-player quiz game that:
 - Tracks player progress and score
 - Saves a top-10 high score list (classifica)
 
-I read the repository source while preparing this README — see the project on GitHub: https://github.com/BmmNdr/Milionario
-( Note: repository file reads performed while authoring this README may be incomplete — open the repo link above to inspect all files and resources. )
-
 ---
 
 ## Table of contents
